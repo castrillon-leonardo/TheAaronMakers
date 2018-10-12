@@ -21,6 +21,7 @@ public class Game implements Serializable{
    private int acresOwned;
    private int wheatInStoreage;
    private Player thePlayer;
+   
 
     public Player getThePlayer() {
         return thePlayer;
